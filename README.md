@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Syed Neaz Morshed Sajid
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Hi there! I'm a passionate developer who loves building projects, learning new technologies, and collaborating with others.
 
