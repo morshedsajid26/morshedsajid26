@@ -10,4 +10,3 @@ Skills: HTML / CSS / Bootstrap / JS / REACT / Next JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=morshedsajid26&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/morshedsajid26/contributions?format=svg&private=true)  
