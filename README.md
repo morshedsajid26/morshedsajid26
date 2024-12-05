@@ -40,6 +40,11 @@ I'm a passionate developer who loves building projects, learning new technologie
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morshedsajid26&layout=compact&theme=radical)
 ![Neaz Morshed Sajid's GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=morshedsajid26&theme=radical)
 
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=morshedsajid26&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Your Name's GitHub Contribution Graph](https://github-readme-stats.vercel.app/api/wakatime?username=morshedsajid26&layout=compact&theme=radical)
+![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=morshedsajid26&theme=radical)
+
+
 
 
 ---
