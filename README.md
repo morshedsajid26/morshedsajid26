@@ -1,10 +1,15 @@
 ![Image Description](assets/Banner.png)
 
-### Hi there 👋, My name is Syed Neaz Morshed Sajid
+<div align='center'>
+  
+  ### Hi there 👋, My name is Syed Neaz Morshed Sajid
 
 I'm a passionate developer who loves building projects, learning new technologies, and collaborating with others.
+</div>
 
 
+<div align='center'>
+  
 ### 🛠️ Technologies & Tools
 
 
@@ -17,8 +22,12 @@ I'm a passionate developer who loves building projects, learning new technologie
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>  
 </p>
+</div>
 
 
+
+<div align='center'>
+  
 #### **Programming Languages**
 
 <p>
@@ -26,7 +35,7 @@ I'm a passionate developer who loves building projects, learning new technologie
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </p>
-
+</div>
 
   
 
@@ -34,7 +43,8 @@ I'm a passionate developer who loves building projects, learning new technologie
 
 
 ---
-
+<div align='center'>
+  
 ### 📈 GitHub Stats
 
 
@@ -42,10 +52,11 @@ I'm a passionate developer who loves building projects, learning new technologie
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morshedsajid26&layout=compact&theme=radical)
 
 
-
+</div>
 
 ---
-
+<div align='center'>
+  
 ### 📞 Connect with Me
 
 
@@ -63,6 +74,17 @@ I'm a passionate developer who loves building projects, learning new technologie
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
+</div>
 
+
+<div align='center'>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/morshedsajid26/morshedsajid26/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/morshedsajid26/morshedsajid26/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/morshedsajid26/morshedsajid26/output/github-snake.svg" />
+</picture>
+
+</div>
 
 
