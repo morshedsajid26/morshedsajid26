@@ -18,6 +18,8 @@ I'm a passionate developer who loves building projects, learning new technologie
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Bootstrap_logo.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Bootstrap_Logo.svg" alt="Bootstrap" width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Bootstrap_Logo.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
 </p>
 
