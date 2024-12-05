@@ -1,4 +1,4 @@
-![Image Description](Banner.png)
+![Image Description](assets/Banner.png)
 
 ### Hi there 👋, My name is Syed Neaz Morshed Sajid
 
