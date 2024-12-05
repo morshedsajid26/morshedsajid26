@@ -16,6 +16,8 @@ I'm a passionate developer who loves building projects, learning new technologie
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>  
    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" width="100" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Bootstrap_logo.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Bootstrap_Logo.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
 </p>
 
