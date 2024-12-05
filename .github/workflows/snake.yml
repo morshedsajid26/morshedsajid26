@@ -10,11 +10,11 @@ on:
 
 jobs:
   build:
-    runs-on: ${{ matrix.os }}  # This will run on each operating system in the matrix
-
     strategy:
       matrix:
-        os: [ubuntu-latest, windows-latest, macos-latest]  # Define the OS matrix
+        os: [ubuntu-latest, windows-latest, macos-latest]  # Run on all platforms (Ubuntu, Windows, macOS)
+
+    runs-on: ${{ matrix.os }}  # This will run the job on each operating system in the matrix
 
     steps:
       - name: Checkout code
@@ -23,16 +23,13 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.8'  # Use your Python version here
+          python-version: '3.8'  # Set your desired Python version (3.8 for example)
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt  # Assuming you have a requirements.txt
+          pip install -r requirements.txt  # Install Python dependencies from requirements.txt
 
-      - name: Run tests
+      - name: Run Snake Game
         run: |
-          python -m unittest discover  # Adjust according to your test framework (unittest, pytest, etc.)
+          python snake_game.py  # Replace with the file that runs your Snake game (make sure it's the correct file)
 
-      - name: Run Snake Game (Example)
-        run: |
-          python snake_game.py  # Replace this with the actual entry point of your game
