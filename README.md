@@ -4,8 +4,10 @@
   
   ### Hi there 👋, My name is Syed Neaz Morshed Sajid
 
-I'm a passionate developer who loves building projects, learning new technologies, and collaborating with others.
+I'm a passionate frontend developer who loves building projects, learning new technologies, and collaborating with others.
 </div>
+
+---
 
 
 <div align='center'>
@@ -19,8 +21,12 @@ I'm a passionate developer who loves building projects, learning new technologie
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>      
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>  
 </p>
 </div>
 
@@ -75,6 +81,8 @@ I'm a passionate developer who loves building projects, learning new technologie
   </a>
 </p>
 </div>
+
+
 
 
 <div align='center'>
