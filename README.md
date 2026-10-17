@@ -1,10 +1,10 @@
-![Image Description](assets/Banner.png)
+![Image Description](assets/Full Stack Developer.png)
 
 <div align='center'>
   
   ### Hi there 👋, My name is Syed Neaz Morshed Sajid
 
-I'm a passionate frontend developer who loves building projects, learning new technologies, and collaborating with others.
+I'm a passionate full stack developer who loves building projects, learning new technologies, and collaborating with others.
 </div>
 
 ---
