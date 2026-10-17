@@ -1,4 +1,4 @@
-![Image Description](assets/Full Stack Developer.png)
+![Image Description](assets/FullStackDeveloper.png)
 
 <div align='center'>
   
